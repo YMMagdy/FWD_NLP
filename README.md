@@ -1,4 +1,4 @@
-# Project Instructions
+# Project Overview
 
 This is a repository for the third project submitted to udacity's FWD initiative. The project concentrates on webpack and its usage in development for testing and production. The API used is for analysing texts of articles, whose URLs are entered by the users.
 
